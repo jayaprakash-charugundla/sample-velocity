@@ -1,0 +1,444 @@
+{
+  "categoryList": [
+    {
+      "useCaseList": [
+        {
+          "name": "Accessory Standalone with Base Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "Accessory Standalone with Complete Details",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Accessory Standalone",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "BYOD Registration with Complete Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "BYOD Registration with Manufacturer",
+          "isBulkRequest": false
+        },
+        {
+          "name": "BYOD Registration with Manufacturer List",
+          "isBulkRequest": false
+        },
+        {
+          "name": "BYOD Registration with Model",
+          "isBulkRequest": false
+        },
+        {
+          "name": "BYOD Registration with Model List",
+          "isBulkRequest": false
+        },
+        {
+          "name": "BYOD Registration with Service Number",
+          "isBulkRequest": false
+        },
+        {
+          "name": "BYOD Registration without Service Number",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "BYOD",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Bulk Request with Accessory Standalone",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with BYOD",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Change Feature",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Change Owner",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Change RatePlan",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Change Service",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Connection",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Connection on Behalf",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Corporate to Personal",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Disconnect Service",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Personal to Corporate",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Port Number",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Re-Activate Service",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Replace Your Device",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Suspend Device",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Unsuspend Device",
+          "isBulkRequest": true
+        },
+        {
+          "name": "Bulk Request with Upgrade Device",
+          "isBulkRequest": true
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Bulk Request",
+      "categoryType": "BULK_REQUESTS"
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Change Feature with Base Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "Change Feature with Complete Details",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Change Feature",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Change Owner with Base Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "Change Owner with Complete Details",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Change Owner",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Change RatePlan with Base Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "Change RatePlan with Complete Details",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Change RatePlan",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Change Service with Base Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "Change Service with Complete Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "Change Service with Rate Plan",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Change Service",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "C2P with Base Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "C2P with Complete Details",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Corporate to Personal",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Disconnect Service with Complete Details",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Disconnect Service",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Connection with Base Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "Connection with Complete Details",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Order New Device With Service",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "P2C with Complete Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "P2C with Service Number Only",
+          "isBulkRequest": false
+        },
+        {
+          "name": "P2C with Supported Device",
+          "isBulkRequest": false
+        },
+        {
+          "name": "P2C with Vendor Notification Only",
+          "isBulkRequest": false
+        },
+        {
+          "name": "P2C with Vendor and Device Info Only",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Personal to Corporate",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Port Number with Base Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "Port Number with Complete Details",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Port Number",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Questionnaire with Connection",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Questionnaire",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Re-Activate Service with Complete Details",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Re-Activate Service",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Replace Your Device with Complete Details",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Replace Your Device",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Suspend Device with Base Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "Suspend Device with Complete Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "Suspend Device with Replace Device",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Suspend Device",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Unsuspend Device with Base Details",
+          "isBulkRequest": false
+        },
+        {
+          "name": "Unsuspend Device with Complete Details",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Unsuspend Device",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "Upgrade with Complete Details",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "Upgrade Device",
+      "categoryType": null
+    },
+    {
+      "useCaseList": [
+        {
+          "name": "View on Behalf with Accessory Standalone",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with BYOD",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Change Feature",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Change Owner",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Change RatePlan",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Change Service",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Connection",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Corporate to Personal",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Disconnect Service",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Personal to Corporate",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Port Number",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Re-Activate Service",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Replace Your Device",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Suspend Device",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Unsuspend Device",
+          "isBulkRequest": false
+        },
+        {
+          "name": "View on Behalf with Upgrade Device",
+          "isBulkRequest": false
+        }
+      ],
+      "categoryImageName": "css/images/no-image.png",
+      "categryImagePath": "BYOD_Registration.png",
+      "categoryName": "View on Behalf",
+      "categoryType": null
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.issuesReport.console.enable\=true\r\nsonar.issuesReport.html.enable\=true\r\nsonar.host.url\=http\://blrsonar\:9000\r\nsonar.issuesReport.html.location\=target\r\nsonar.analysis.mode\=preview
+projectKey=com.prime\:velocity
+serverUrl=http\://localhost\:9000
+version=2

@@ -1,0 +1,15 @@
+#if ($stringUtils.isNotBlank($person.name))
+package $person.name;
+#end
+
+<table>
+    <tr>
+        <td>Name</td>
+        <td>$person.name</td>
+    </tr>
+    <tr>
+        <td>Address</td>
+        <td>$person.address</td>
+    </tr>
+</table>
+

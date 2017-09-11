@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+#parse("templates/header/header.vsl")
+
+<body>
+#if($stringUtils.isNotBlank($map.hi) && $map.hi == "hello")
+<img src="$map.hi" alt="PTC" title="PTC">
+#end
+
+#foreach ($key in $jsonObj)
+#foreach ($category in $key)
+$category.categoryName
+$category.categoryImageName
+$category.categryImagePath
+#foreach ($usecase in $category.useCaseList)
+$usecase.name
+#end
+#end
+#end
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+#foreach( $contract in $contractList )
+   <TR>
+     <TD>$contract.company</TD>
+     <TD>$contract.contract</TD>
+     <TD>$contract.country</TD>
+	 <TD>$contract.companyDetails.name</TD>
+   </TR>
+#end
+</table>
+
+$TestUtil.getHELLO()
+#if($TestUtil.display($person.name))
+Success
+#end
+
+$StyleConstants.STYLE_ROW
+
+#parse("templates/footer.vsl")
+</body>
+</html>
+
